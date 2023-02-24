@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto Slab', serif;
     
-    margin: 0% 25% 0% 25%;
+    margin: 0% 15% 0% 15%;
 }
 
 .orange {
@@ -24,4 +24,14 @@ body {
 }
 .half-width img{
     width: 75%;
+}
+.title-background{
+    margin-top: 40%;
+}
+
+#half-width img{
+    width: 30%;
+}
+.bg-image{
+    background-image: url(Frame\ 56.jpg);
 }
